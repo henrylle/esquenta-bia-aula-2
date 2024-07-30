@@ -1,0 +1,1 @@
+Aula de esquenta do Bootcamp Imersão AWS que inicia no dia 05 de Agosto.
