@@ -1,1 +1,0 @@
-# Aula de esquenta para o Bootcamp Imersão AWS que começa dia 14 de Outubro às 20h
